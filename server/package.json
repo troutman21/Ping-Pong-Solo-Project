@@ -1,0 +1,28 @@
+{
+  "name": "micro_quue",
+  "version": "1.0.0",
+  "description": "chrome extension",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troutman21/Hackathon-Crome-Extension.git"
+  },
+  "author": "Phillip Troutman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troutman21/Hackathon-Crome-Extension/issues"
+  },
+  "homepage": "https://github.com/troutman21/Hackathon-Crome-Extension#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "ejs": "^2.5.7",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.9",
+    "nodemon": "^1.17.1"
+  }
+}
