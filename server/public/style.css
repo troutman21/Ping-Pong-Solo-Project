@@ -1,7 +1,0 @@
-body{
-    text-decoration-line: underline;
-    background-color:rgb(180, 167, 167); 
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}
